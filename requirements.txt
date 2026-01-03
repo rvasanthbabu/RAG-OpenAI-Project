@@ -1,0 +1,17 @@
+faiss-cpu
+openai
+gradio==3.41.2
+gradio_client==0.5.0
+langchain
+pandas
+PyPDF2
+numpy
+matplotlib
+PyYAML
+pydantic
+python-multipart
+pydub
+fastapi
+uvicorn
+openpyxl
+setuptools
